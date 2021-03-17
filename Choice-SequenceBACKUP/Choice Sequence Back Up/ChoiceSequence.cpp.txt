@@ -1,0 +1,2 @@
+C:\Users\dougr\Documents\Unreal Projects\ChoiceSequence\Intermediate\Build\Win64\UE4Editor\Development\ChoiceSequence\Definitions.ChoiceSequence.h
+C:\Users\dougr\Documents\Unreal Projects\ChoiceSequence\Source\ChoiceSequence\ChoiceSequence.h

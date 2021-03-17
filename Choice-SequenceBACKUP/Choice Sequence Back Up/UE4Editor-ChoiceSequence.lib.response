@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ChoiceSequence.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\dougr\Documents\Unreal Projects\ChoiceSequence\Intermediate\Build\Win64\ChoiceSequenceEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\dougr\Documents\Unreal Projects\ChoiceSequence\Intermediate\Build\Win64\UE4Editor\Development\ChoiceSequence\ChoiceSequence.cpp.obj"
+"C:\Users\dougr\Documents\Unreal Projects\ChoiceSequence\Intermediate\Build\Win64\UE4Editor\Development\ChoiceSequence\MyClass.cpp.obj"
+"C:\Users\dougr\Documents\Unreal Projects\ChoiceSequence\Intermediate\Build\Win64\UE4Editor\Development\ChoiceSequence\Default.rc2.res"
+/OUT:"C:\Users\dougr\Documents\Unreal Projects\ChoiceSequence\Intermediate\Build\Win64\UE4Editor\Development\ChoiceSequence\UE4Editor-ChoiceSequence.lib"
+/INCLUDE:IMPLEMENT_MODULE_ChoiceSequence
